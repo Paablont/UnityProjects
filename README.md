@@ -4,5 +4,5 @@
  Para probar los juegos basta con descomprimir la carpeta y ejecutar cada uno
 
  
-Si quiero subir archivos grandes uso git lfs track ".extension del archivo"
+Anotacion para mi: Si quiero subir archivos grandes uso git lfs track ".extension del archivo"
 
